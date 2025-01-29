@@ -5,9 +5,9 @@ redis:
 catalog:
   service:
     base:
-      url: http://localhost:9001
+      url: http://localhostxx:9001
 
 order:
   service:
     base:
-      url: http://localhost:9002
+      url: http://localhostxx:9002
