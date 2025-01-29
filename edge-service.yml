@@ -1,13 +1,6 @@
-redis:
-  host: localhostxx
-  port: 6379
+REDIS_HOST: localhostxx
+REDIS_PORT: 6379
 
-catalog:
-  service:
-    base:
-      url: http://localhostxx:9001
+CATALOG_SERVICE_BASE_URL: http://localhostxx:9001
 
-order:
-  service:
-    base:
-      url: http://localhostxx:9002
+ORDER_SERVICE_BASE_URL: http://localhostxx:9002
