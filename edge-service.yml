@@ -1,6 +1,6 @@
-REDIS_HOST: localhostxx
+REDIS_HOST: localhost
 REDIS_PORT: 6379
 
-CATALOG_SERVICE_BASE_URL: http://localhostxx:9001
+CATALOG_SERVICE_BASE_URL: http://localhost:9001
 
-ORDER_SERVICE_BASE_URL: http://localhostxx:9002
+ORDER_SERVICE_BASE_URL: http://localhost:9002
